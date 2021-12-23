@@ -3,13 +3,12 @@ Encription
 
 - Запуск сервера  клиента\
 с обменом открытыми ключами
-
-- Server
+  1. Server
 
 
 ![](img/img.png)
 
-- Client
+  2. Client
 
 
 ![](img/img_1.png)
