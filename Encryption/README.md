@@ -5,13 +5,13 @@ Encription
 с обменом открытыми ключами
 
 
-  1. Server
+  1 . Server
 
 
 ![](img/img.png)
 
 
-  2. Client
+  2 . Client
 
 
 ![](img/img_1.png)
