@@ -6,12 +6,15 @@
 - Старт
 ![](img/img.png)
 - Информация о запросе в терминале
+
 ![](img/img.png)
 
 - Главная страница (http://localhost:9091)
+
 ![](img/img_1.png)
 
 - Первая страница (http://localhost:9091/first)
+
 ![](img/img_2.png)
 
 - Вторая страница (http://localhost:9091/second)
